@@ -10,5 +10,5 @@ The application takes my South Africa(R)
 And converts to some of the major currencies like
 US Dollars and British pounds 
 
-#stack used:
+# stack used:
 Java and IntelliJ Idea
